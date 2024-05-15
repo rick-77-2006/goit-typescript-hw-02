@@ -12,6 +12,3 @@ export interface UnsplashImage {
   page: number,
   per_page:number,
 }
-
-
-

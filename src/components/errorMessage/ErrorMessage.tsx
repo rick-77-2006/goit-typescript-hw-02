@@ -16,4 +16,3 @@ const ErrorMessage: FC<ErrorMessageProps> = ({ message }) => {
 };
 
 export default ErrorMessage;
-
